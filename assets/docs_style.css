@@ -30,7 +30,15 @@ p {
     text-decoration: none;
     font-family: monospace;
     font-size: 13px;
-    padding: 5px;
+    padding: 0px;
+}
+
+u {
+    color: #fff;
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 13px;
+    padding: 0px;
 }
 
 a:hover {
